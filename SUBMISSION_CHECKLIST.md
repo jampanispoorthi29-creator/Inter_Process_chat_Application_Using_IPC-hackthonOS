@@ -1,0 +1,11 @@
+# Submission Checklist
+- [ ] Compile source successfully on the lab Linux/WSL environment
+- [ ] Run Process A and Process B in separate terminals
+- [ ] Test startup order both ways
+- [ ] Verify messages in both directions
+- [ ] Test /quit and invalid role
+- [ ] Capture real terminal screenshots
+- [ ] Update report with actual test results and team details
+- [ ] Add team names, IDs, section, and mentor details
+- [ ] Upload source, README, report, and PPT to GitHub
+- [ ] Rehearse a short live demo and divide speaking roles
